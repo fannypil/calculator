@@ -5,7 +5,7 @@ This is a simple calculator application built using Android Studio. The app allo
 
 
 
-##🌟 Features
+## 🌟 Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Clear input and output displays.
