@@ -49,6 +49,6 @@ This is a simple calculator application built using Android Studio. The app allo
 
 
 ## Acknowledgements
-
+-This project was developed as part of an Development in android environment 1 coursework.
 - [Material Design Components](https://material.io/develop/android/docs/getting-started)
 - [Android Developers](https://developer.android.com/docs)
