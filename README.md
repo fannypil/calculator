@@ -42,7 +42,7 @@ This is a simple calculator application built using Android Studio. The app allo
 
 <img src="https://github.com/user-attachments/assets/0f804a4b-32b1-4039-8288-34f1879c8de4" alt="Example Image" style="width: 240px;"> 
 
-🎥 [Watch the demo video](https://github.com/user-attachments/assets/a906d216-60d3-42b7-8881-4f4d614abc9e)
+🎥 [Watch demo video](https://github.com/user-attachments/assets/a906d216-60d3-42b7-8881-4f4d614abc9e)
 
 
 ## Acknowledgements
