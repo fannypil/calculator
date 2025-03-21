@@ -40,12 +40,9 @@ This is a simple calculator application built using Android Studio. The app allo
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/0f804a4b-32b1-4039-8288-34f1879c8de4" alt="Example Image" style="width: 240px;">
+<img src="https://github.com/user-attachments/assets/0f804a4b-32b1-4039-8288-34f1879c8de4" alt="Example Image" style="width: 240px;"> 
 
-<video width="240px" controls>
-  <source src="screen-shots/Screen_recording_20250312_203843.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+🎥 [Watch the demo video](https://github.com/user-attachments/assets/a906d216-60d3-42b7-8881-4f4d614abc9e)
 
 
 ## Acknowledgements
